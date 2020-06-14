@@ -1,0 +1,2 @@
+export const SET_SCHEDULE_SUCCESS = 'SET_SCHEDULE_SUCCESS';
+export const GET_ERRORS = 'GET_ERRORS';
